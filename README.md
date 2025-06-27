@@ -12,3 +12,5 @@ This demo showcases:
 
 Get a clear understanding of the application's core functionality and user experience.
 
+Document of my Project: https://drive.google.com/file/d/1rqBipBu61YNIEUBwDhe5RzI7DWfH0sFo/view?usp=drive_link [Smart Sorting Project D1.pdf](https://github.com/user-attachments/files/20955917/Smart.Sorting.Project.D1.pdf)
+
